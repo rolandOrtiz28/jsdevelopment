@@ -83,3 +83,14 @@ background-color: #0cff45;
 .answer{
 width: 200px;
 }
+
+.answerkey{
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+}
+
+.answerkey ul li{
+font-size: 15px;
+}
